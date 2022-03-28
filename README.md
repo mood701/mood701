@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">  
 
-<!--
-**mood701/mood701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm Mood~
+  
+My code and english is nothing but ugly, as you see
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My hobbies ♥  
+
+Gameplay, Game Animation and Computer Graphics📺 (  ~~But Not Good~~  )
+
+JRPG, Nintendo And Write bug
+
+### This is my github stat 👇
+<p>
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=mood701&show_icons=true&count_private=true&theme=radical">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mood701&layout=compact&theme=radical&hide=HTML,Javascript,CSS">
+<p>
+
+</div>
